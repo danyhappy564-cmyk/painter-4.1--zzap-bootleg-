@@ -19,8 +19,8 @@ namespace Painter;
 public record ModMetadata : AbstractModMetadata
 {
     public override string ModGuid { get; init; } = "com.emilanderss0n.painter";
-    public override string Name { get; init; } = "Zasten";
-    public override string Author { get; init; } = "Jayoh";
+    public override string Name { get; init; } = "Painter";
+    public override string Author { get; init; } = "MoxoPixel";
     public override List<string>? Contributors { get; init; } = ["Jayoh"];
     public override SemanticVersioning.Version Version { get; init; } = new("2.1.0");
     public override SemanticVersioning.Range SptVersion { get; init; } = new("~4.0.8");
