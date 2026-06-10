@@ -10,7 +10,7 @@ using SPTarkov.Server.Core.Services.Mod;
 using SPTarkov.Server.Core.Utils;
 using System.Reflection;
 using WTTServerCommonLib.Services;
-using Zasten;
+using Painter;
 using Path = System.IO.Path;
 
 namespace Painter;
@@ -56,7 +56,7 @@ public class AddTraderWithAssortJson(
         // A path to the mods files we use below
         var pathToMod = modHelper.GetAbsolutePathToModFolder(Assembly.GetExecutingAssembly());
         // A relative path to the trader icon to show
-        var traderImagePath = Path.Combine(pathToMod, "data/zasten.png");
+        var traderImagePath = Path.Combine(pathToMod, "data/Painter.png");
         // The base json containing trader settings we will add to the server
         var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "data/base.json");
         // Create a helper class and use it to register our traders image/icon + set its stock refresh time
@@ -67,7 +67,7 @@ public class AddTraderWithAssortJson(
         // An 'assort' is the term used to describe the offers a trader sells, it has 3 parts to an assort
         AddCustomTraderHelper.AddTraderWithEmptyAssortToDb(traderBase);
         // Add localisation text for our trader to the database so it shows to people playing in different languages
-        AddCustomTraderHelper.AddTraderToLocales(traderBase, "Zasten", "an underground black market trader with ties to smugglers and ex-contractors. He deals in hard-to-find weapons and gear, favoring trusted operators over clean money.");
+        AddCustomTraderHelper.AddTraderToLocales(traderBase, "Painter", "Painter is a trader who sells unique weapon mods and gear. Also painted weapon parts (incl. whole weapons).);
         // Get the assort data from JSON
         var assort = modHelper.GetJsonDataFromFile<TraderAssort>(pathToMod, "data/assort.json");
         // Save the data we loaded above into the trader we've made
