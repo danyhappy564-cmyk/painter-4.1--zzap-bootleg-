@@ -1,0 +1,92 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6a3c7bbb7df382d28e91580b",
+    "outfitId": "6a3c7bc3ed72cf6b0ca7cda5",
+    "topId": "6a3c7bcd887c40262e9c6fc5",
+    "handsId": "6a3c7bd4f1a6d9ac29d00248",
+    "locales": {
+      "en": {
+        "name": "TGC Dark Infiltrator Top",
+        "description": "Combat Shirt"
+      }
+    },
+    "topBundlePath": "clothes/tshirt_usec_combatshirt_black.bundle",
+    "handsBundlePath": "clothes/hands_usec_combatshirt_black.bundle",
+    "traderId": "668aaff35fd574b6dcc4a686",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "5449016a4bdc2d6f028b456f",
+    "price": 150,
+    "achievementRequirements": [],
+    "questRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a3c7ec628bafd870585708c",
+    "outfitId": "6a3c7ecbbcf270ca09924165",
+    "topId": "6a3c7ed13b1954b27393b1ce",
+    "handsId": "6a3c7ed63dd0579b39d7b42a",
+    "locales": {
+      "en": {
+        "name": "TGC Hoodie",
+        "description": "Hoodie"
+      }
+    },
+    "topBundlePath": "clothes/top_usec_hoody.bundle",
+    "handsBundlePath": "clothes/hands_bear_borey_m90.skin.bundle",
+    "traderId": "668aaff35fd574b6dcc4a686",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "5449016a4bdc2d6f028b456f",
+    "price": 150,
+    "achievementRequirements": [],
+    "questRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a3c815907dadd33e248f6e5",
+    "outfitId": "6a3c815e4ed7c89e4b4cd696",
+    "bottomId": "6a3c816b88d9e334c4012b8a",
+    "locales": {
+      "en": {
+        "name": "M90 Combat Pants",
+        "description": "Combat Pants"
+      }
+    },
+    "bottomBundlePath": "clothes/pants_m90.bundle",
+    "traderId": "668aaff35fd574b6dcc4a686",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "5449016a4bdc2d6f028b456f",
+    "price": 150,
+    "achievementRequirements": [],
+    "questRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "6a3c85309f368356466ae4bd",
+    "outfitId": "6a3c8538c7d43a18a76bdf10",
+    "topId": "6a3c853da92c6020a5472a9f",
+    "handsId": "6a3c8544e944a753098abe48",
+    "locales": {
+      "en": {
+        "name": "M90 Combat Jacket",
+        "description": "Tactical Jacket"
+      }
+    },
+    "topBundlePath": "clothes/top_bear_borey_m90.bundle",
+    "handsBundlePath": "clothes/hands_bear_borey_m90.skin.bundle",
+    "traderId": "668aaff35fd574b6dcc4a686",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "5449016a4bdc2d6f028b456f",
+    "price": 150,
+    "achievementRequirements": [],
+    "questRequirements": []
+  }
+]
