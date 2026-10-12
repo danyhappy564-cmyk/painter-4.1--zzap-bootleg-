@@ -11,8 +11,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -41,7 +40,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.46
     },
     "locales": {
       "en": {
@@ -85,7 +84,7 @@
       },
       "Width": 3,
       "Height": 2,
-      "Weight": 0
+      "Weight": 4.0
     },
     "locales": {
       "en": {
@@ -172,7 +171,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.33
     },
     "locales": {
       "en": {
@@ -214,7 +213,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -243,7 +242,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -272,7 +271,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -301,7 +300,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -330,7 +329,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -359,7 +358,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.117
     },
     "locales": {
       "en": {
@@ -387,7 +386,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.138
     },
     "locales": {
       "en": {
@@ -415,7 +414,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -444,7 +443,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -472,7 +471,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -500,7 +499,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -529,7 +528,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -557,7 +556,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.138
     },
     "locales": {
       "en": {
@@ -585,7 +584,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.138
     },
     "locales": {
       "en": {
@@ -613,7 +612,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.138
     },
     "locales": {
       "en": {
@@ -642,7 +641,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.2
     },
     "locales": {
       "en": {
@@ -671,7 +670,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.2
     },
     "locales": {
       "en": {
@@ -699,7 +698,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.2
     },
     "locales": {
       "en": {
@@ -727,7 +726,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.2
     },
     "locales": {
       "en": {
@@ -755,7 +754,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.2
     },
     "locales": {
       "en": {
@@ -783,7 +782,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0
+      "Weight": 4.0
     },
     "locales": {
       "en": {
@@ -850,7 +849,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -878,7 +877,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.17
     },
     "locales": {
       "en": {
@@ -906,7 +905,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.3
     },
     "locales": {
       "en": {
@@ -934,7 +933,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.317
     },
     "locales": {
       "en": {
@@ -962,7 +961,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.237
     },
     "locales": {
       "en": {
@@ -990,7 +989,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.19
     },
     "locales": {
       "en": {
@@ -1018,7 +1017,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.25
     },
     "locales": {
       "en": {
@@ -1046,7 +1045,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.308
     },
     "locales": {
       "en": {
@@ -1074,7 +1073,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.57
     },
     "locales": {
       "en": {
@@ -1102,7 +1101,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.626
     },
     "locales": {
       "en": {
@@ -1130,7 +1129,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.212
     },
     "locales": {
       "en": {
@@ -1158,7 +1157,7 @@
       },
       "Width": 4,
       "Height": 1,
-      "Weight": 0
+      "Weight": 1.25
     },
     "locales": {
       "en": {
@@ -1186,7 +1185,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0
+      "Weight": 2.1
     },
     "locales": {
       "en": {
@@ -1214,7 +1213,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.49
     },
     "locales": {
       "en": {
@@ -1242,7 +1241,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.13
     },
     "locales": {
       "en": {
@@ -1270,7 +1269,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.29
     },
     "locales": {
       "en": {
@@ -1298,7 +1297,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.08
     },
     "locales": {
       "en": {
@@ -1326,7 +1325,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.48
     },
     "locales": {
       "en": {
@@ -1354,7 +1353,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.195
     },
     "locales": {
       "en": {
@@ -1382,7 +1381,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.425
     },
     "locales": {
       "en": {
@@ -1410,7 +1409,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 1.3
     },
     "locales": {
       "en": {
@@ -1456,7 +1455,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.355
     },
     "locales": {
       "en": {
@@ -1484,7 +1483,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.25
     },
     "locales": {
       "en": {
@@ -1512,7 +1511,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.215
     },
     "locales": {
       "en": {
@@ -1540,7 +1539,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.246
     },
     "locales": {
       "en": {
@@ -1568,7 +1567,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.053
     },
     "locales": {
       "en": {
@@ -1596,7 +1595,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.35
     },
     "locales": {
       "en": {
@@ -1624,7 +1623,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.35
     },
     "locales": {
       "en": {
@@ -1652,7 +1651,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.08
     },
     "locales": {
       "en": {
@@ -1680,7 +1679,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.226
     },
     "locales": {
       "en": {
@@ -1708,7 +1707,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.03
     },
     "locales": {
       "en": {
@@ -1735,7 +1734,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.334
     },
     "locales": {
       "en": {
@@ -1763,7 +1762,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1791,7 +1790,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.271
     },
     "locales": {
       "en": {
@@ -1819,7 +1818,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.88
     },
     "locales": {
       "en": {
@@ -1847,7 +1846,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1875,8 +1874,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1904,8 +1902,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1933,8 +1930,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1962,8 +1958,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -1991,8 +1986,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -2020,7 +2014,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -2049,7 +2043,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -2078,7 +2072,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.21
     },
     "locales": {
       "en": {
@@ -2107,7 +2101,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.226
     },
     "locales": {
       "en": {
@@ -2135,7 +2129,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.4
     },
     "locales": {
       "en": {
@@ -2163,7 +2157,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.053
     },
     "locales": {
       "en": {
@@ -2191,7 +2185,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.053,
       "Recoil": -2,
       "Ergonomics": 7
     },
@@ -2221,7 +2215,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.053
     },
     "locales": {
       "en": {
@@ -2249,7 +2243,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.015,
       "Slots": [
         {
           "_id": "673f232572166a10f7f1886e",
@@ -2301,8 +2295,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.57,
       "Recoil": -15,
       "Loudness": -33
     },
@@ -2332,7 +2325,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.57
     },
     "locales": {
       "en": {
@@ -2360,8 +2353,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.453,
       "Recoil": -10,
       "Loudness": -28
     },
@@ -2391,7 +2383,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.042,
       "Ergonomics": 6,
       "Recoil": -2
     },
@@ -2421,7 +2413,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.042,
       "Ergonomics": 7,
       "Recoil": -3
     },
@@ -2451,7 +2443,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.082,
       "Ergonomics": 5,
       "Recoil": -4
     },
@@ -2481,7 +2473,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.082
     },
     "locales": {
       "en": {
@@ -2509,7 +2501,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.05
     },
     "locales": {
       "en": {
@@ -2537,7 +2529,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.05
     },
     "locales": {
       "en": {
@@ -2565,7 +2557,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.09
     },
     "locales": {
       "en": {
@@ -2593,7 +2585,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.16
     },
     "locales": {
       "en": {
@@ -2621,8 +2613,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.49,
       "Recoil": -4
     },
     "locales": {
@@ -2651,8 +2642,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.567,
       "Recoil": -13,
       "Loudness": -49
     },
@@ -2682,7 +2672,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.567
     },
     "locales": {
       "en": {
@@ -2710,7 +2700,7 @@
       },
       "Width": 4,
       "Height": 3,
-      "Weight": 0,
+      "Weight": 6.9,
       "Grids": [
         {
           "_id": "6a6ec85233a7fe71ca6d01df",
@@ -3358,7 +3348,7 @@
       },
       "Width": 4,
       "Height": 3,
-      "Weight": 0,
+      "Weight": 6.9,
       "Grids": [
         {
           "_id": "6a6eca4ff98023c347acd6b3",
@@ -4006,7 +3996,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.148
     },
     "locales": {
       "en": {
@@ -4034,7 +4024,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.148
     },
     "locales": {
       "en": {
@@ -4062,7 +4052,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 1.5,
       "BackgroundColor": "black"
     },
     "locales": {
@@ -4110,7 +4100,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 1.5,
       "BackgroundColor": "black"
     },
     "locales": {
@@ -4158,7 +4148,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.005
     },
     "locales": {
       "en": {
@@ -4193,7 +4183,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.005
     },
     "locales": {
       "en": {
@@ -4228,7 +4218,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.005
     },
     "locales": {
       "en": {
@@ -4263,7 +4253,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.005
     },
     "locales": {
       "en": {
@@ -4298,7 +4288,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.11,
       "Slots": [
         {
           "_id": "673f20fbe0fe7192aa60ced4",
@@ -4355,7 +4345,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.11
     },
     "locales": {
       "en": {
@@ -4383,7 +4373,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.11,
       "ConflictingItems": [
         "58d39b0386f77443380bf13c"
       ],
@@ -4435,7 +4425,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.042,
       "Ergonomics": 7,
       "Recoil": -2
     },
@@ -4465,7 +4455,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.042,
       "Ergonomics": 7,
       "Recoil": -2
     },
@@ -4495,7 +4485,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.015,
       "Slots": [
         {
           "_id": "674102efce212eef366af909",
@@ -4543,7 +4533,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.015,
       "Slots": [
         {
           "_id": "67429a775c2ed730acc47861",
@@ -4592,10 +4582,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
-      "speedPenaltyPercent": 0,
-      "mousePenalty": 0,
-      "weaponErgonomicPenalty": 0,
+      "Weight": 2.75,
       "Grids": [
         {
           "_id": "7813d32832ad3cfed190fba5",
@@ -4908,7 +4895,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 2.75,
       "Grids": [
         {
           "_id": "7813d328ee4a106f0f1ddae7",
@@ -5221,10 +5208,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
-      "speedPenaltyPercent": 0,
-      "mousePenalty": 0,
-      "weaponErgonomicPenalty": 0,
+      "Weight": 1.133,
       "Grids": [
         {
           "_id": "6a503363a428c5254e9d85eb",
@@ -5309,10 +5293,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
-      "speedPenaltyPercent": 0,
-      "mousePenalty": 0,
-      "weaponErgonomicPenalty": 0,
+      "Weight": 1.133,
       "Grids": [
         {
           "_id": "6a5033c24eb05f5035e15547",
@@ -5397,7 +5378,7 @@
       },
       "Width": 3,
       "Height": 3,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "6a5035d10e5fc15de72a934a",
@@ -5722,7 +5703,7 @@
       },
       "Width": 3,
       "Height": 3,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "6a50379dbd270bfd212235de",
@@ -6047,7 +6028,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.138,
       "Cartridges": [
         {
           "_id": "668aaadce0c27026094afbc3",
@@ -6110,7 +6091,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.138,
       "Cartridges": [
         {
           "_id": "67a28214afdfda86300c2e03",
@@ -6173,7 +6154,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.138,
       "Cartridges": [
         {
           "_id": "67b22ff2fdf6db9f08c236d3",
@@ -6236,7 +6217,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.138,
       "Cartridges": [
         {
           "_id": "67b325339f98f49fc12fb620",
@@ -6299,7 +6280,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.9,
       "BackgroundColor": "yellow",
       "Slots": [
         {
@@ -6502,7 +6483,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0
+      "Weight": 2.4
     },
     "locales": {
       "en": {
@@ -6549,7 +6530,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 2.4,
       "DeafStrength": "None",
       "BlindnessProtection": 1,
       "Slots": [
@@ -6786,7 +6767,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.34,
       "Grids": [
         {
           "_id": "672e2ef756bf168d8853164d",
@@ -6838,7 +6819,7 @@
       },
       "Width": 3,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 2,
       "Grids": [
         {
           "_id": "672e2f08e049f19f59ed564a",
@@ -6927,7 +6908,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.187,
       "Grids": [
         {
           "_id": "672e2efdd97670c11577b852",
@@ -6978,8 +6959,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.409,
       "Recoil": -1,
       "Velocity": -18.31,
       "DurabilityBurnModificator": 0.77
@@ -7010,9 +6990,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
-      "Recoil": 0,
+      "Weight": 0.409,
       "Velocity": -20.1,
       "DurabilityBurnModificator": 0.71
     },
@@ -7042,7 +7020,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.9,
       "Slots": [
         {
           "_id": "6771cfcb629eded1746e6e96",
@@ -7241,7 +7219,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.9
     },
     "locales": {
       "en": {
@@ -7288,7 +7266,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.9
     },
     "locales": {
       "en": {
@@ -7335,8 +7313,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 1.2,
       "Recoil": -2,
       "ExtraSizeLeft": 2
     },
@@ -7366,7 +7343,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.237,
       "Slots": [
         {
           "_name": "mod_scope",
@@ -7417,7 +7394,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.04
     },
     "locales": {
       "en": {
@@ -7445,7 +7422,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.22
     },
     "locales": {
       "en": {
@@ -7473,7 +7450,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.22
     },
     "locales": {
       "en": {
@@ -7501,7 +7478,7 @@
       },
       "Width": 4,
       "Height": 5,
-      "Weight": 0,
+      "Weight": 15,
       "Grids": [
         {
           "_name": "main",
@@ -7583,7 +7560,7 @@
       },
       "Width": 4,
       "Height": 5,
-      "Weight": 0,
+      "Weight": 15,
       "Grids": [
         {
           "_name": "main",
@@ -7665,7 +7642,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.209
     },
     "locales": {
       "en": {
@@ -7693,7 +7670,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.209
     },
     "locales": {
       "en": {
@@ -7721,7 +7698,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.11,
       "Slots": [
         {
           "_name": "mod_stock_000",
@@ -7772,7 +7749,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.6
     },
     "locales": {
       "en": {
@@ -7819,7 +7796,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0
+      "Weight": 0.6
     },
     "locales": {
       "en": {
@@ -7866,7 +7843,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.502,
       "Slots": [
         {
           "_name": "mod_foregrip",
@@ -7916,7 +7893,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.502
     },
     "locales": {
       "en": {
@@ -7944,7 +7921,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.509,
       "ConflictingItems": [
         "5c0e2f5cd174af02a012cfc9",
         "5ae30db85acfc408fb139a05",
@@ -8069,7 +8046,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.509,
       "ConflictingItems": [
         "5c0e2f5cd174af02a012cfc9",
         "5ae30db85acfc408fb139a05",
@@ -8194,7 +8171,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.4,
       "Grids": [
         {
           "_id": "6a5ee639da1cd0c69954a1c8",
@@ -8342,7 +8319,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.4,
       "Grids": [
         {
           "_id": "6a5ee6566d907edb471ac6a1",
@@ -8490,8 +8467,7 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.138,
       "Cartridges": [
         {
           "_id": "668aaadce0c27026094afbc3",
@@ -8554,7 +8530,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.9,
       "Slots": [
         {
           "_id": "672e2e75078da411c83aa9d9",
@@ -8699,7 +8675,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.78,
       "Ergonomics": 6,
       "Recoil": -23
     },
@@ -8729,7 +8705,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.78
     },
     "locales": {
       "en": {
@@ -8757,7 +8733,7 @@
       },
       "Width": 3,
       "Height": 3,
-      "Weight": 0,
+      "Weight": 2.35,
       "Grids": [
         {
           "_id": "6a5ee89d244f74028c126627",
@@ -9094,7 +9070,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 1.1,
       "Grids": [
         {
           "_id": "6a5eeaca68929ec6bb6b898b",
@@ -9176,10 +9152,7 @@
       },
       "Width": 4,
       "Height": 4,
-      "Weight": 0,
-      "speedPenaltyPercent": 0,
-      "mousePenalty": 0,
-      "weaponErgonomicPenalty": 0,
+      "Weight": 1.1,
       "Grids": [
         {
           "_id": "6a5eeb5b39fb1d6901f6c024",
@@ -9261,7 +9234,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.5,
       "Grids": [
         {
           "_id": "6a5eec33ff36b2fcac8b66d5",
@@ -9409,7 +9382,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.07,
       "Slots": [
         {
           "_name": "mod_foregrip",
@@ -9461,7 +9434,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.502,
       "ConflictingItems": [
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
@@ -9823,7 +9796,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.285,
       "Slots": [
         {
           "_id": "6a7cd726588c60fecbbb4f1d",
@@ -10047,7 +10020,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.092
     },
     "locales": {
       "en": {
@@ -10075,7 +10048,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.148
     },
     "locales": {
       "en": {
@@ -10104,7 +10077,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.4,
       "Grids": [
         {
           "_id": "6a62c52934c07bdd452122f5",
@@ -10275,7 +10248,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.4,
       "Grids": [
         {
           "_id": "6a62c5e7af06164526a5a9fb",
@@ -10446,7 +10419,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
+      "Weight": 0.1
     },
     "locales": {
       "en": {
@@ -10493,7 +10466,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.077,
       "ConflictingItems": [
         "55d35ee94bdc2d61338b4568",
         "55d3632e4bdc2d972f8b4569",
@@ -10532,7 +10505,7 @@
       },
       "Width": 2,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.52,
       "BlocksEyewear": true,
       "BlocksHeadwear": false,
       "BackgroundColor": "yellow",
@@ -10583,7 +10556,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.2,
       "Ergonomics": 5,
       "Recoil": -14,
       "IsAnimated": false,
@@ -10618,7 +10591,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.2,
       "Ergonomics": 1,
       "Recoil": -1,
       "Slots": [
@@ -10695,8 +10668,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.607,
       "Recoil": -7
     },
     "locales": {
@@ -10725,8 +10697,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
-      "Ergonomics": 0,
+      "Weight": 0.462,
       "Recoil": -7
     },
     "locales": {
@@ -10755,9 +10726,8 @@
       },
       "Width": 1,
       "Height": 2,
-      "Weight": 0,
+      "Weight": 0.4,
       "VisibleAmmoRangesString": "1-4",
-      "Ergonomics": 0,
       "Cartridges": [
         {
           "_name": "cartridges",
@@ -10807,7 +10777,7 @@
       },
       "Width": 3,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "6a62c92749259a8200b4c394",
@@ -11143,7 +11113,7 @@
       },
       "Width": 3,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "69cf2f103d960c37af4bda92",
@@ -11479,7 +11449,7 @@
       },
       "Width": 3,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "580d6f584b52585a2afcdea8",
@@ -11815,7 +11785,7 @@
       },
       "Width": 3,
       "Height": 4,
-      "Weight": 0,
+      "Weight": 2.88,
       "Grids": [
         {
           "_id": "57ccf1f879a33de841d1f92f",
@@ -12151,9 +12121,9 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0
-    ,
-      "StackMaxSize": 60000},
+      "Weight": 0.019,
+      "StackMaxSize": 60000
+    },
     "locales": {
       "en": {
         "name": "6x38mm ARC",
@@ -12180,7 +12150,7 @@
       },
       "Width": 2,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.209,
       "StackMaxSize": 900000,
       "CanSellOnRagfair": true,
       "CanRequireOnRagfair": true,
@@ -12231,7 +12201,7 @@
       },
       "Width": 3,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.343,
       "Slots": [
         {
           "_id": "6733f456c44c37874b0b5fca",
@@ -12467,7 +12437,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0,
+      "Weight": 0.17,
       "Slots": [
         {
           "_id": "685009bbcc6a1e05d2e3716e",
