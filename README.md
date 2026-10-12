@@ -4,10 +4,10 @@
 
 ### ⚠️ IMPORTANT NOTICE / DISCLAIMER
 
-**Original Author:** MoxoPixel (SPT 4.0 port: Jayoh99)
-**Original Repository:** Painter
-**Original Link:** https://github.com/emilanderss0n/Painter
-**License:** MIT
+- **Original Author:** MoxoPixel (SPT 4.0 port: Jayoh99)
+- **Original Repository:** Painter
+- **Original Link:** https://github.com/emilanderss0n/Painter
+- **License:** MIT
 
 1. **Reflection & Take-Downs:** I deeply reflect on the ECOT incident. As an AI-assisted "vibe coder," I will immediately delete files if the original authors ask.
 2. **No Re-Distribution:** These ported builds are unverified, temporary fixes. Please do NOT re-upload or share them anywhere else.
@@ -19,6 +19,7 @@
 
 ## 변경 이력
 
+- 2026-10-13 04:36 — README 맨 위 원작자 표기를 한 줄씩 나눠 보기 쉽게 정리 (내용 변화 없음)
 릴리즈 노트: [RELEASE_NOTES.md](RELEASE_NOTES.md)
 
 - 2026-10-12 23:33 — 아이템 조정기(SPT-ItemTweaker)로 바뀌어 있던 나머지 값도 되돌림. 상인 신뢰도 조건이 레벨 1/2/3/4·거래액 0·평판 0으로 풀려 있던 것을 원작 값(레벨 1/9/18/30, 거래액 0/50만/130만/300만, 평판 0/0.08/0.16/0.22)으로, 핸드가드·6x38 탄의 비정상 묶음 수(90만·6만)를 원래대로, 플리 판매 금지가 풀려 있던 TGC 핸드가드를 다시 금지로. 직전 수정에서 실수로 지운 총열 반동 값 1개도 복구.
