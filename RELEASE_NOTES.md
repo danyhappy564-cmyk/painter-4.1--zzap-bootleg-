@@ -34,4 +34,4 @@
 
 ## 업데이트 방법
 
-기존 `user\mods\Painter` 폴더에 덮어쓰면 됩니다(`bundles` 폴더는 그대로 두세요).
+`release/Painter-4.1-zzap-20261012.zip`을 SPT 설치 폴더(예: `E:\SPT 4.1`)에 그대로 풀면 `SPT_Runtime\user\mods\Painter`에 덮어써집니다. `bundles` 폴더는 zip에 없으니 기존 것을 그대로 두세요(새로 설치하면 원본 모드에서 복사).
