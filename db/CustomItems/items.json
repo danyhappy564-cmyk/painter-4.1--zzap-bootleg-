@@ -6992,7 +6992,8 @@
       "Height": 1,
       "Weight": 0.409,
       "Velocity": -20.1,
-      "DurabilityBurnModificator": 0.71
+      "DurabilityBurnModificator": 0.71,
+      "Recoil": 0
     },
     "locales": {
       "en": {
@@ -12121,8 +12122,7 @@
       },
       "Width": 1,
       "Height": 1,
-      "Weight": 0.019,
-      "StackMaxSize": 60000
+      "Weight": 0.019
     },
     "locales": {
       "en": {
@@ -12151,9 +12151,8 @@
       "Width": 2,
       "Height": 1,
       "Weight": 0.209,
-      "StackMaxSize": 900000,
-      "CanSellOnRagfair": true,
-      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
       "InitialSpeed": 965,
       "BallisticCoeficient": 0.288,
       "BulletMassGram": 6,
